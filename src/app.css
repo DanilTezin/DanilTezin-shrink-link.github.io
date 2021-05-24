@@ -6,6 +6,7 @@ body {
 
 .glava {
     height: calc(120px + 1vw);
+    background-image: url('1121212.png');
     filter: blur(5px);
 }
 
